@@ -5,9 +5,9 @@
 データの結合・整形・集計を自動で行うPythonスクリプトです。  
 
 【使用技術】  
--Python  
--pandas  
--openpyxl  
+・Python  
+・pandas  
+・openpyxl  
 
 【機能】  
 ・Excelファイルの読み込み  
