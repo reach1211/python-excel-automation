@@ -7,9 +7,17 @@
 
 
 【使用技術】
+
+
 ・Python
+
+
 ・pandas
+
+
 ・openpyxl
+
+
 
 
 【機能】
