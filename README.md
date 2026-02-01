@@ -16,10 +16,9 @@
 - 集計結果の出力  
 
 【使い方】  
-１.sampleフォルダにExcelファイルを配置  
-２.main.py を実行  
-３.output.xlsx が生成されます  
-
+１. sampleフォルダにExcelファイルを配置  
+２. main.py を実行  
+３. output.xlsx が生成されます  
 
 【想定利用シーン】  
 - 売上データの月次集計  
